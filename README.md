@@ -1,5 +1,5 @@
 # notesApp-React
-<h1>notesApp-React</h1>
+<h1>home page</h1>
 🚀This project is a user-friendly note-taking application built using a contemporary interface with React. 🚀
 
 📚Utilizing the React library, the application uses React Router DOM for seamless page integration, allowing users to quickly move between different sections. 
