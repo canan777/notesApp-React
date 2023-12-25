@@ -17,5 +17,4 @@
 
 🛠 React, React Router DOM, React Icons
 
-
 <img src="./public/gif/notesApp.gif"/>
